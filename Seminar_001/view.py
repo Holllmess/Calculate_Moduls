@@ -3,10 +3,10 @@ def view_data(data):
 
 
 def get_value(): 
-  return complex(input('number #1 = '))
+  return float(input('number #1 = '))
 
 def get_value02(): 
-  return complex(input('number #2 = '))
+  return float(input('number #2 = '))
 
 def get_symbol(): 
   return input('symbol = ')
