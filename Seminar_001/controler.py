@@ -1,4 +1,4 @@
-import model_complex as model
+import model_rational as model
 import view 
 import calc_logger as cl
 

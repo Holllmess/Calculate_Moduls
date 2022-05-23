@@ -9,8 +9,3 @@ def calculator(a, b, c):
         return a * b
     elif c == '/':
         return a / b
-    else:
-        print('Ошибка ввода данных')
-
-
-print(calculator(23j, 31, '+'))
